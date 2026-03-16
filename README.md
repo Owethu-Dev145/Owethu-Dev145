@@ -51,3 +51,5 @@ Hi there 👋 I'm Owethu, a Diploma in ICT student at the University of Mpumalan
 Mpumalanga Artificial intelligence Hackathon || 2024 - 3rd Place. 
 
 [Certificate](Certificate.pdf).
+
+
