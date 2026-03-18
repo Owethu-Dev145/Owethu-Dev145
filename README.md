@@ -2,13 +2,7 @@
 Hi there 👋 I'm Owethu, a Diploma in ICT student at the University of Mpumalanga. I'm passionate about software development and enjoy working with technologies like Java, Python, C++, JavaScript, PHP, React, and Kotlin. I’m also interested in AI, data analysis, networking, and cloud computing .
 
 
- ##  Hi There 👋
 
-
---🪴  Im currently working on Advancing my skills on Data Science/ Analysis ( python & R language ).  
- -- And  im Currently learning DevOps Engineering and preparing myself to  enhance my skills  on Mastering  BackEnd Development ( DSA ).    
- -- Always Open to Connect with anyone willing to build great Applications with me.
- --
 
 ## My Tech Stack
  
@@ -48,7 +42,7 @@ Hi there 👋 I'm Owethu, a Diploma in ICT student at the University of Mpumalan
 -  Macro Projects , such as Banking systems , API's , School management systems and more.
 
 ## Certificates 
-Mpumalanga Artificial intelligence Hackathon || 2024 - 3rd Place. 
+. 
 
 [Certificate](Certificate.pdf).
 
