@@ -5,8 +5,6 @@ Hi there 👋 I'm Owethu, a Diploma in ICT student at the University of Mpumalan
 
 ## My Tech Stack
 
-
-
 ###  Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
