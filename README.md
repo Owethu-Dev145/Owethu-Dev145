@@ -1,4 +1,4 @@
- v# Owethu-Dev145
+ # Owethu-Dev145
 Hi there 👋 I'm Owethu, a Diploma in ICT student at the University of Mpumalanga. I'm passionate about software development and enjoy working with technologies like Java, Python, C++, JavaScript, PHP, React, and Kotlin. I’m also interested in AI, data analysis, networking, and cloud computing .
 
 
