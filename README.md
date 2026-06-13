@@ -39,3 +39,4 @@ Hi there 👋 I'm Owethu, a Diploma in ICT student at the University of Mpumalan
 -  Managed to develop Mobile & Web Applications .
 -  Macro Projects , such as Banking systems , API's , School management systems and more.
 ## Certificates 
+
