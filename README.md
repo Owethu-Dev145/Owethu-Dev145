@@ -3,7 +3,6 @@
 Hi there 👋 I'm Owethu, a Diploma in ICT student at the University of Mpumalanga. I'm passionate about software development and enjoy working with technologies like Java, Python, C++, JavaScript, PHP, React, and Kotlin. I’m also interested in AI, data analysis, networking, and cloud computing
 ## My Tech Stack
 
-
 ###  Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
