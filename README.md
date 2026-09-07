@@ -30,6 +30,7 @@ Hi there 👋 I'm Owethu, a Diploma in ICT student at the University of Mpumalan
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+
 ## Academic Projects & personal projects 
  Built multiple academic and personal software projects (Enterprise Applications, Data Analysis Systems).
 -  Developed data-driven projects using SQL and analytical tools.
